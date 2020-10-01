@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BootcampAndroid</string>
+    <string name="enter_movie_name">enter movie name</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="poster">poster</string>
+</resources>
